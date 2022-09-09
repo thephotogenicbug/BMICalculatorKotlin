@@ -10,6 +10,11 @@
 
     <color name="layout_background">#222830</color>
     <color name="card_background">#28425C</color>
-    <color name="text_hint">#EDEDFA</color>
+    <color name="text_hint">#ADADB1</color>
     <color name="button_bg">#EABE54</color>
+
+    <color name="under_weight">#F1A22D</color>
+    <color name="normal">#4CAF50</color>
+    <color name="over_weight">#E4477D</color>
+    <color name="obese">#E3392D</color>
 </resources>
