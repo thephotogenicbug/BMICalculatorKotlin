@@ -118,7 +118,7 @@
                 android:ems="10"
                 android:hint="0"
                 android:inputType="number"
-                android:textColor="@color/white"
+                android:textColor="@color/text_hint"
                 android:textColorHint="@color/text_hint"
                 android:textSize="60sp"
                 android:textStyle="bold"
